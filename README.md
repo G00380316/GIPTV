@@ -7,7 +7,7 @@ I only develop **GIPTV**.
 Other add-ons included in this repository belong to their respective authors and owners.
 
 Repository page:  
-**https://G00380316.github.io/Gflix/**
+**https://G00380316.github.io/GIPTV/**
 
 ---
 
@@ -21,7 +21,7 @@ Repository page:
 5. Go back and open the **Add-on Browser** (package icon).
 6. Select **Install from zip file**.
 7. Browse to the downloaded file:
-   - `repository.G00380316-3.0.3.zip`
+   - `repository.G00380316-3.1.0.zip`
 8. Wait for the repository installed notification.
 
 Kodi’s documentation confirms that zip installation from private repositories requires **Unknown sources** to be enabled. :contentReference[oaicite:1]{index=1}
