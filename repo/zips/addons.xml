@@ -882,12 +882,12 @@ Many thanks to the developers who assisted with the TMDb Helper patch and restor
 		<news>INFO: For latest changes see Changelog within add-on.</news>
 		<assets><icon>icon.png</icon><fanart>fanart.jpg</fanart><screenshot>screenshot.jpg</screenshot></assets>
 	</extension>
-</addon><addon id="repository.G00380316" name="Gflix" version="3.1.0" provider-name="G00380316">
+</addon><addon id="repository.G00380316" name="Gflix" version="3.1.1" provider-name="G00380316">
     <extension point="xbmc.addon.repository" name="Gflix Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/G00380316/gflix/main/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/G00380316/gflix/main/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/G00380316/gflix/main/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/G00380316/GIPTV/main/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/G00380316/GIPTV/main/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/G00380316/GIPTV/main/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
